@@ -23,4 +23,6 @@ Changes:
 
 ---
 
+![](https://raw.githubusercontent.com/mrmccormack/mrm-min-css2/master/dorian-baumann-414602-unsplash.jpg)
+
 ![](https://raw.githubusercontent.com/mrmccormack/mrm-min-css/master/page_thumb.png)
